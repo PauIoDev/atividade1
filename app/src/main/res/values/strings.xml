@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">atividade1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_principal">principal</string>
+    <string name="title_activity_aplicativos">Aplicativos</string>
+    <string-array name="tipo">
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+    <string name="title_activity_conversor">conversor</string>
+</resources>
