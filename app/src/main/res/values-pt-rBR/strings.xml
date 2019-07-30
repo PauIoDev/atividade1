@@ -1,5 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">atividade1</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_principal">principal</string>
+    <string name="lg">Entrar</string>
+    <string name="app_name">Projetinho</string>
+    <string name="title_activity_calculo_imc">CalculoIMC</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="al">Altura</string>
+    <string name="ps">Peso</string>
+    <string name="cl">Calcular</string>
+    <string name="sb">Sobre</string>
+    <string name="lp" >Limpar</string>
+    <string name="sn">Senha</string>
+    <string name="imc">IMC</string>
+
+    <string name="title_activity_conversao">Conversão</string>
+    <string name="title_activity_sobre">Sobre</string>
+    <string name="cnvt">Converter para</string>
+    <string name="cnvrt">Converter</string>
+    <string name="ldp">Lista de Produtos</string>
+
+
+    <string-array name="tipo">
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+        <item>TB</item>
+    </string-array>
+    <string name="cn">Conversão</string>
 </resources>

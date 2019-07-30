@@ -14,7 +14,8 @@
         android:layout_width="match_parent"
         android:layout_height="196dp"
         android:paddingTop="10dp"
-        android:src="@drawable/ic_login" />
+        android:src="@drawable/ic_login"
+        android:contentDescription="TODO" />
 
     <EditText
         android:id="@+id/edtEmail"
@@ -22,7 +23,8 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="@string/em"
-        android:inputType="textEmailAddress" />
+        android:inputType="textEmailAddress"
+        android:autofillHints="" />
 
     <EditText
         android:id="@+id/edtSenha"
